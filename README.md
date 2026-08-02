@@ -20,3 +20,7 @@ escrever nenhuma linha de código de programação.
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
 
+
+## Licença
+
+Este repositório foi criado exclusivamente para fins de estudo e aprendizagem. Neste momento, nenhuma licença foi definida para o manual.
