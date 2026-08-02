@@ -1,0 +1,54 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..de8d68e[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,25 @@[m
+[32m+[m[32m# Manual da Comunidade GitHub for Women[m
+[32m+[m
+[32m+[m[32mBem-vinda! Este é um projeto de **documentação** feito apenas com arquivos Markdown[m
+[32m+[m[32m(`.md`). Vamos usá-lo durante todo o curso para praticar Git e GitHub sem precisar[m
+[32m+[m[32mescrever nenhuma linha de código de programação.[m
+[32m+[m
+[32m+[m[32m## Índice[m
+[32m+[m
+[32m+[m[32m- [Sobre a comunidade](sobre.md)[m
+[32m+[m[32m- [Perguntas frequentes (FAQ)](faq.md)[m
+[32m+[m[32m- [Como entrar em contato](contato.md)[m
+[32m+[m[32m- [Código de conduta](codigo-de-conduta.md)[m
+[32m+[m
+[32m+[m[32m## Como usar este projeto[m
+[32m+[m
+[32m+[m[32m1. Baixe esta pasta e abra no VS Code.[m
+[32m+[m[32m2. Siga o guia da aula prática correspondente.[m
+[32m+[m[32m3. Cada seção do manual vira uma oportunidade de praticar commits, branches e Pull Requests.[m
+[32m+[m
+[32m+[m[32m> 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**[m
+[32m+[m[32m> o projeto e **como usá-lo**.[m
+[32m+[m
+[32m+[m[32m## Licença[m
+[32m+[m
+[32m+[m[32mEste repositório foi criado exclusivamente para fins de estudo e aprendizagem. Neste momento, nenhuma licença foi definida para o manual.[m
+\ No newline at end of file[m
+[1mdiff --git a/sobre.md b/sobre.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0ca21c6[m
+[1m--- /dev/null[m
+[1m+++ b/sobre.md[m
+[36m@@ -0,0 +1,15 @@[m
+[32m+[m[32m# Sobre a comunidade[m
+[32m+[m
+[32m+[m[32mA **GitHub for Women** é uma comunidade que conecta mulheres que querem crescer na área[m
+[32m+[m[32mde tecnologia, da engenharia à liderança.[m
+[32m+[m
+[32m+[m[32m## Nossos valores[m
+[32m+[m
+[32m+[m[32m- Aprendizado colaborativo[m
+[32m+[m[32m- Respeito e acolhimento[m
+[32m+[m[32m- Compartilhar conhecimento sem medo de errar[m
+[32m+[m
+[32m+[m[32m## Quem pode participar[m
+[32m+[m
+[32m+[m[32mQualquer pessoa que se identifique com a nossa missão e queira contribuir com um ambiente[m
+[32m+[m[32mmais diverso na tecnologia.[m
+\ No newline at end of file[m
